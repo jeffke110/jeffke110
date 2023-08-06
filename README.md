@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffke110&label=Profile%20views&color=0e75b6&style=flat" alt="jeffke110" /> </p>
 
-- 🔭 I’m currently working on **2D platform game in Godot**
+- 🔭 I’m currently working on **doing coding challenges with the Raylib 3d library**
 
-- 🌱 I’m currently learning **Godot Game development**
+- 🌱 I’m currently learning for fun **Godot Game development**
 
 - 👨‍💻 All of my projects are also available at [https://jeffreykedda-portfolio.glitch.me/](https://jeffreykedda-portfolio.glitch.me/)
 
-- 💬 I'm currently practicing **leetcode in C++ and doing coding challenges with the Raylib 3d library**
+- 💬 I'm currently practicing **leetcode in C++**
 
 - 📫 How to reach me **jlkedda@gmail.com**
 
