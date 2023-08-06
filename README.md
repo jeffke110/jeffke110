@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are also available at [https://jeffreykedda-portfolio.glitch.me/](https://jeffreykedda-portfolio.glitch.me/)
 
-- 💬 I'm currently practicing **leetcode in C++**
+- 💬 I'm currently practicing **leetcode problems in C++**
 
 - 📫 How to reach me **jlkedda@gmail.com**
 
