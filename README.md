@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **doing coding challenges with the Raylib 3d library**
 
-- 🌱 I’m currently learning for fun **Godot Game development**
+- 🌱 I’m currently learning flask and python back end development
 
 - 👨‍💻 All of my projects are also available at [https://jeffreykedda-portfolio.glitch.me/](https://jeffreykedda-portfolio.glitch.me/)
 
