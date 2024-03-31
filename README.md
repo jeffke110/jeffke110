@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffke110&label=Profile%20views&color=0e75b6&style=flat" alt="jeffke110" /> </p>
 
-- 🔭 I’m currently working on **doing coding challenges with the Raylib 3d library**
+- 🔭 I'm currently practicing C++ for Unreal Engine Development**
 
-- 🌱 I’m currently learning flask and python back end development
+- 🌱 I’m currently learning Blender and Unreal Engine
 
 - 👨‍💻 All of my projects are also available at [https://jeffreykedda-portfolio.glitch.me/](https://jeffreykedda-portfolio.glitch.me/)
-
-- 💬 I'm currently practicing **leetcode problems in C++**
 
 - 📫 How to reach me **jlkedda@gmail.com**
 
