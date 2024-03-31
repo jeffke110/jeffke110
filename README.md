@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently practicing C++ for Unreal Engine Development**
 
-- 🌱 I’m currently learning Blender and Unreal Engine
+- 🌱 I’m currently learning Blender and Unreal Engine and self learning Korean
 
 - 👨‍💻 All of my projects are also available at [https://jeffreykedda-portfolio.glitch.me/](https://jeffreykedda-portfolio.glitch.me/)
 
