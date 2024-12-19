@@ -2,13 +2,11 @@
 <h3 align="center">A passionate recent grad computer engineer from Virginia Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffke110&label=Profile%20views&color=0e75b6&style=flat" alt="jeffke110" /> </p>
-- I'm an aspiring Systems Programmer/Loe Level Programmer
+- I'm an aspiring Systems Programmer/Low Level Programmer
 
-- 🔭 I'm currently learning/practicing C++, C, Linux, Shell Scripting
+- 🔭 I'm currently learning, practicing, and have experinnce with: C++, C, Linux, Shell Scripting
 
 - 📫 How to reach me **jlkedda@gmail.com**
-
-- 📄 Know about my experiences [https://cdn.glitch.global/30bc0103-5028-4989-ba9a-1b5c83db1099/JeffreyKeddaResume.pdf?v=1684424563167](https://cdn.glitch.global/30bc0103-5028-4989-ba9a-1b5c83db1099/JeffreyKeddaResume.pdf?v=1684424563167)
 
 - ⚡ Fun fact **I'm currently playing Space Marine 2 on PC**
 
